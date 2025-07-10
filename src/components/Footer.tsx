@@ -1,5 +1,5 @@
 
-import { Phone, Mail, MapPin, Clock, Facebook, Twitter, Instagram } from 'lucide-react';
+import { 08100896467, hawawutiamiyu@gmail.com, https://www.facebook.com/share/1BC1VsxkYv/ } from 'lucide-react';
 
 const Footer = () => {
   const scrollToSection = (href: string) => {
